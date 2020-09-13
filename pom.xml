@@ -9,6 +9,7 @@
 		<module>springAOP-aspectj-test</module>
 		<module>springAOP-xml-test</module>
 		<module>springAOP-old-test</module>
+    <module>springAOP-my-test</module>
   </modules>
 	
 	<properties>

@@ -21,10 +21,6 @@ public class Operation {
 	}
 	
 	public void t() throws Exception {
-//		try {
 			throw new Exception("doing throw exception");
-//		} catch (Exception e) {
-//			System.out.println("抓住了异常");
-//		}
 	}
 }
